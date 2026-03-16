@@ -2,7 +2,7 @@
 
 Data Analyst based in Munich with 3+ years of experience across Python, SQL, Power BI, and data pipeline engineering. I've worked at BSH Home Appliances Group and Fluence Energy (Siemens/AES), building things that actually got used — dashboards tracking 15+ KPIs, pipelines processing 1M+ records/day, and automations that cut manual work by 30%.
 
-Currently finishing my MSc in Computer Science at TU Ilmenau and actively looking for full-time Data Analyst roles in Germany.
+MSc in Computer Science at TU Ilmenau and actively looking for full-time Data Analyst or relevant roles in Germany.
 
 ---
 
