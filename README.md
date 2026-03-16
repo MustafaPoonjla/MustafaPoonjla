@@ -1,4 +1,4 @@
-# Hi, I'm Mustafa 👋
+# Hi, I'm Mustafa Poonjla👋
 
 Data Analyst based in Munich with 3+ years of experience across Python, SQL, Power BI, and data pipeline engineering. I've worked at BSH Home Appliances Group and Fluence Energy (Siemens/AES), building things that actually got used — dashboards tracking 15+ KPIs, pipelines processing 1M+ records/day, and automations that cut manual work by 30%.
 
