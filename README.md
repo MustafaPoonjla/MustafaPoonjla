@@ -20,7 +20,8 @@ MSc in Computer Science at TU Ilmenau and actively looking for full-time Data An
 | Project | Tools | Description |
 |---|---|---|
 | [Sales Analysis Dashboard](https://github.com/MustafaPoonjla/Sales-Analysis-Dashboard) | Power BI, Excel | Interactive sales dashboard with KPIs, regional filters, and trend analysis |
-| [HR Analysis Dashboard](https://github.com/MustafaPoonjla/HR-Analysis-Dashboard) | Power BI, CSV | HR attrition and workforce analytics dashboard | | [Financial Analysis Dashboard](https://github.com/MustafaPoonjla/Financial-Analysis-Dashboard) | Power BI, Excel | Sales and profit analysis across 5 countries, 5 segments — $118M in transactions |
+| [HR Analysis Dashboard](https://github.com/MustafaPoonjla/HR-Analysis-Dashboard) | Power BI, CSV | HR attrition and workforce analytics dashboard |
+| [Financial Analysis Dashboard](https://github.com/MustafaPoonjla/Financial-Analysis-Dashboard) | Power BI, Excel | Sales and profit analysis across 5 countries, 5 segments — $118M in transactions |
 
 ---
 
